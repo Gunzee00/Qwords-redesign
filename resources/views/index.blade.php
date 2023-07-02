@@ -56,9 +56,10 @@
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li class="dropdown"><a href="#"><span>Cloud Hosting</span> <i class="bi bi-chevron-down"></i></a>
+                    <li class="dropdown"><a href="#"><span>Cloud Hosting</span> <i
+                                class="bi bi-chevron-down"></i></a>
                         <ul>
-                            
+
                             <li><a href="#">Value Cloud Hosting</a></li>
                             <li><a href="#">High Performance Enterprice</a></li>
                             <li><a href="#">Unlimited Hosting</a></li>
@@ -89,14 +90,15 @@
                             <li><a href="#">Private Label Domain Reseller</a></li>
                         </ul>
                     </li>
-                    <li class="dropdown"><a href="#"><span>Email Suit</span> <i class="bi bi-chevron-down"></i></a>
+                    <li class="dropdown"><a href="#"><span>Email Suit</span> <i
+                                class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="#">Titan Email</a></li>
                             <li><a href="#">Microsoft 365</a></li>
                             <li><a href="#">Mailtogo</a></li>
                             <li><a href="#">EC Collaboration Suite</a></li>
                             <li><a href="#">Google Workspace</a></li>
-                
+
                         </ul>
                     </li>
                     <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
@@ -110,18 +112,20 @@
                             <li><a href="#">Digital Signature</a></li>
                             <li><a href="#">Manage The Box Server</a></li>
                             <li><a href="#"> NAS Asustor</a></li>
-                        
+
                         </ul>
                     </li>
-                    <li class="dropdown"><a href="#"><span>Internet Access</span> <i class="bi bi-chevron-down"></i></a>
+                    <li class="dropdown"><a href="#"><span>Internet Access</span> <i
+                                class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="#">Broadband Home</a></li>
                             <li><a href="#">Broad Wireless</a></li>
                             <li><a href="#">Broadband Business</a></li>
-                            <li><a href="#">Check Coverage</a></li>           
+                            <li><a href="#">Check Coverage</a></li>
                         </ul>
                     </li>
-                    <li class="dropdown"><a href="#"><span>Customer Care</span> <i class="bi bi-chevron-down"></i></a>
+                    <li class="dropdown"><a href="#"><span>Customer Care</span> <i
+                                class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="#">Pembayaran</a></li>
                             <li><a href="#"></a>Knowledge Base</li>
@@ -129,11 +133,11 @@
                             <li><a href="#"></a>Bantuan 24 Jam</li>
                             <li><a href="#">FAQ</a></li>
                             <li><a href="#">Kontak</a></li>
-                                 
+
                         </ul>
                     </li>
-                    
-                    
+
+
                     {{-- <li><a class="nav-link scrollto" href="#contact">Promo</a></li> --}}
                     <li><a class="nav-link scrollto" href="#contact">Daftar </a></li>
                     <li><a class="nav-link scrollto" href="#contact">Login</a></li>
@@ -144,26 +148,14 @@
         </div>
     </header><!-- End Header -->
 
-    <!-- ======= Hero Section ======= -->
+    <!-- ======= Landing Page======= -->
     <section id="hero" class="d-flex flex-column justify-content-end align-items-center">
-        <div id="heroCarousel" data-bs-interval="5000" class="container carousel carousel-fade" data-bs-ride="carousel">
-
-            <!-- Slide 1 -->
-            {{-- <div class="carousel-item active">
-                <div class="carousel-container">
-                    <h2 class="animate__animated animate__fadeInDown">Selamat Datang di <span>Qwords</span></h2>
-                    <p class="animate__animated fanimate__adeInUp">
-                    </p>
-                    <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Cek Domain
-                        Dulu</a>
-                </div>
-            </div> --}}
-            <!-- ======= Pricing Section ======= -->
+        <div id="heroCarousel" data-bs-interval="5000" class="container carousel carousel-fade"
+            data-bs-ride="carousel">
             <section class="pricing">
                 <div class="container">
-
                     <div style="color: rgb(0, 0, 0)" data-aos="zoom-out">
-                        {{-- <h2>Pricing</h2> --}}
+
                         <center>
                             <h1>Qwords | Cloud Hosting Indonesia</h1>
                         </center>
@@ -197,9 +189,6 @@
                                 </div>
                             </div>
                         </div>
-
-                        {{-- <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
-                <div class="box featured" data-aos="zoom-in" data-aos-delay="100"> --}}
                         <div class="col-lg-3 col-md-6">
                             <div class="box" data-aos="zoom-in">
                                 <h3>Unlimited Hosting<br><strong>Signature</strong></br> <br><strike>Rp 114.000</strike>
@@ -286,7 +275,7 @@
                     </div>
 
                 </div>
-            </section><!-- End Pricing Section -->
+            </section>
 
         </div>
 
@@ -306,7 +295,7 @@
             </g>
         </svg>
 
-    </section><!-- End Hero -->
+    </section>
     <div class="s003">
         <form>
             <center>
@@ -352,7 +341,7 @@
     <main id="main">
 
         <!-- ======= About Section ======= -->
-        <section  class="about">
+        <section class="about">
             <div class="container">
 
                 <div class="section-title" data-aos="zoom-out">
@@ -379,16 +368,6 @@
                         </p>
 
                     </div>
-                    {{-- <div class="col-lg-6 pt-4 pt-lg-0">
-                        <p>
-                            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                            reprehenderit in voluptate
-                            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                            proident, sunt in
-                            culpa qui officia deserunt mollit anim id est laborum.
-                        </p>
-                        <a href="#" class="btn-learn-more">Learn More</a>
-                    </div> --}}
                 </div>
 
             </div>
@@ -554,7 +533,7 @@
         </section><!-- End Cta Section -->
 
         <!-- ======= Services Section ======= -->
-        <section  class="services">
+        <section class="services">
             <div class="container">
 
                 <div class="section-title" data-aos="zoom-out">
@@ -567,8 +546,8 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="icon-box" data-aos="zoom-in-left">
                             <div class="icon"><i class="bi bi-briefcase" style="color: #ff689b;"></i></div>
-                            <h4  class="title"><a href="">Layanan 24/7
-                                </a></h4> 
+                            <h4 class="title"><a href="">Layanan 24/7
+                                </a></h4>
                             <p class="description">Tim Technical Support dan Customer Service Qwords siap membantu Anda
                                 selama 24 jam, 7 hari. Anda dapat menghubungi melalui Live chat, Call Center, dan
                                 Support Ticket.</p>
@@ -645,7 +624,7 @@
         </section><!-- End Services Section -->
 
         <!-- ======= Portfolio Section ======= -->
-        <section  class="portfolio">
+        <section class="portfolio">
             <div class="container">
 
                 <div class="section-title" data-aos="zoom-out">
@@ -654,14 +633,6 @@
                         <p>Telah Dipercaya oleh 45.000+ Pelanggan Aktif</p>
                     </center>
                 </div>
-
-                {{-- <ul id="portfolio-flters" class="d-flex justify-content-end" data-aos="fade-up">
-                    <li data-filter="*" class="filter-active">All</li>
-                    <li data-filter=".filter-app">App</li>
-                    <li data-filter=".filter-card">Card</li>
-                    <li data-filter=".filter-web">Web</li>
-                </ul> --}}
-
                 <div class="row portfolio-container" data-aos="fade-up">
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
@@ -709,18 +680,10 @@
             <div class="container">
 
                 <div class="section-title" data-aos="zoom-out">
-                    {{-- <h2>Portfolio</h2> --}}
                     <center>
                         <p>Partner Kami</p>
                     </center>
                 </div>
-
-                {{-- <ul id="portfolio-flters" class="d-flex justify-content-end" data-aos="fade-up">
-                    <li data-filter="*" class="filter-active">All</li>
-                    <li data-filter=".filter-app">App</li>
-                    <li data-filter=".filter-card">Card</li>
-                    <li data-filter=".filter-web">Web</li>
-                </ul> --}}
 
                 <div class="row portfolio-container" data-aos="fade-up">
 
@@ -747,14 +710,6 @@
                         <div><img src="assets/img/portfolio/bangga.jpg" class="img-fluid" alt=""></div>
 
                     </div>
-
-                    {{-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                        <div><img src="assets/img/portfolio/md.jpg" class="img-fluid"
-                                alt=""></div>
-                    </div> --}}
-
-
-
                 </div>
 
             </div>
@@ -793,7 +748,7 @@
                                 <h3>Budi Raharjo</h3>
                                 <h4>Founder ID Cert</h4>
                             </div>
-                        </div><!-- End testimonial item -->
+                        </div>
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
@@ -811,7 +766,7 @@
                                 <h3>Kuns Kurniawan</h3>
                                 <h4>PR Event Info BDG</h4>
                             </div>
-                        </div><!-- End testimonial item -->
+                        </div>
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
@@ -830,7 +785,7 @@
                                 <h3>Denden Sofiudin</h3>
                                 <h4>Owner Rumah Kopi temanggung</h4>
                             </div>
-                        </div><!-- End testimonial item -->
+                        </div>
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
@@ -846,23 +801,9 @@
                                 <h3>Matt Brandon</h3>
                                 <h4>Freelancer</h4>
                             </div>
-                        </div><!-- End testimonial item -->
+                        </div>
 
-                        {{-- <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster
-                                    veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam
-                                    culpa fore nisi cillum quid.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img"
-                                    alt="">
-                                <h3>John Larson</h3>
-                                <h4>Entrepreneur</h4>
-                            </div>
-                        </div><!-- End testimonial item --> --}}
+
 
                     </div>
                     <div class="swiper-pagination"></div>
@@ -871,90 +812,7 @@
             </div>
         </section><!-- End Testimonials Section -->
 
-        <!-- ======= Pricing Section ======= -->
-        {{-- <section id="pricing" class="pricing">
-            <div class="container">
 
-                <div class="section-title" data-aos="zoom-out">
-                    <h2>Pricing</h2>
-                    <p>Our Competing Prices</p>
-                </div>
-
-                <div class="row">
-
-                    <div class="col-lg-3 col-md-6">
-                        <div class="box" data-aos="zoom-in">
-                            <h3>Free</h3>
-                            <h4><sup>$</sup>0<span> / month</span></h4>
-                            <ul>
-                                <li>Aida dere</li>
-                                <li>Nec feugiat nisl</li>
-                                <li>Nulla at volutpat dola</li>
-                                <li class="na">Pharetra massa</li>
-                                <li class="na">Massa ultricies mi</li>
-                            </ul>
-                            <div class="btn-wrap">
-                                <a href="#" class="btn-buy">Buy Now</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
-                        <div class="box featured" data-aos="zoom-in" data-aos-delay="100">
-                            <h3>Business</h3>
-                            <h4><sup>$</sup>19<span> / month</span></h4>
-                            <ul>
-                                <li>Aida dere</li>
-                                <li>Nec feugiat nisl</li>
-                                <li>Nulla at volutpat dola</li>
-                                <li>Pharetra massa</li>
-                                <li class="na">Massa ultricies mi</li>
-                            </ul>
-                            <div class="btn-wrap">
-                                <a href="#" class="btn-buy">Buy Now</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
-                        <div class="box" data-aos="zoom-in" data-aos-delay="200">
-                            <h3>Developer</h3>
-                            <h4><sup>$</sup>29<span> / month</span></h4>
-                            <ul>
-                                <li>Aida dere</li>
-                                <li>Nec feugiat nisl</li>
-                                <li>Nulla at volutpat dola</li>
-                                <li>Pharetra massa</li>
-                                <li>Massa ultricies mi</li>
-                            </ul>
-                            <div class="btn-wrap">
-                                <a href="#" class="btn-buy">Buy Now</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
-                        <div class="box" data-aos="zoom-in" data-aos-delay="300">
-                            <span class="advanced">Advanced</span>
-                            <h3>Ultimate</h3>
-                            <h4><sup>$</sup>49<span> / month</span></h4>
-                            <ul>
-                                <li>Aida dere</li>
-                                <li>Nec feugiat nisl</li>
-                                <li>Nulla at volutpat dola</li>
-                                <li>Pharetra massa</li>
-                                <li>Massa ultricies mi</li>
-                            </ul>
-                            <div class="btn-wrap">
-                                <a href="#" class="btn-buy">Buy Now</a>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-        </section><!-- End Pricing Section --> --}}
         <!-- ======= Portfolio Section ======= -->
         <section id="portfolio" class="portfolio">
             <div class="container">
@@ -967,12 +825,7 @@
                     </center>
                 </div>
 
-                {{-- <ul id="portfolio-flters" class="d-flex justify-content-end" data-aos="fade-up">
-            <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-app">App</li>
-            <li data-filter=".filter-card">Card</li>
-            <li data-filter=".filter-web">Web</li>
-        </ul> --}}
+
 
                 <div class="row portfolio-container" data-aos="fade-up">
 
@@ -1003,14 +856,6 @@
                         <div><img src="assets/img/portfolio/koran.jpg" class="img-fluid" alt=""></div>
 
                     </div>
-
-                    {{-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                <div><img src="assets/img/portfolio/md.jpg" class="img-fluid"
-                        alt=""></div>
-            </div> --}}
-
-
-
                 </div>
 
             </div>
@@ -1181,177 +1026,12 @@
                                 <a class="cta-btn align-middle" href="#">📞 021 39708800</a>
                             </div>
                             <center>
-                                {{-- <a class="cta-btn align-middle" href="#">📞0804-1-808-888</a>
-                    <a class="cta-btn align-middle" href="#">📞021 39708800</a>
-                    <a class="cta-btn align-middle" href="#">📞021 39708800</a> --}}
+
                     </div>
-                    {{-- <div class="col-lg-3 cta-btn-container text-center">
-                        <a class="cta-btn align-middle" href="#">Lihat Selengkapnya</a>
-                    </div> --}}
                 </div>
 
             </div>
         </section><!-- End Cta Section -->
-
-
-        {{-- <!-- ======= Team Section ======= -->
-        <section id="team" class="team">
-            <div class="container">
-
-                <div class="section-title" data-aos="zoom-out">
-                    <h2>Team</h2>
-                    <p>Our Hardworking Team</p>
-                </div>
-
-                <div class="row">
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="member" data-aos="fade-up">
-                            <div class="member-img">
-                                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
-                            </div>
-                            <div class="member-info">
-                                <h4>Walter White</h4>
-                                <span>Chief Executive Officer</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="member" data-aos="fade-up" data-aos-delay="100">
-                            <div class="member-img">
-                                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
-                            </div>
-                            <div class="member-info">
-                                <h4>Sarah Jhonson</h4>
-                                <span>Product Manager</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="member" data-aos="fade-up" data-aos-delay="200">
-                            <div class="member-img">
-                                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
-                            </div>
-                            <div class="member-info">
-                                <h4>William Anderson</h4>
-                                <span>CTO</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-                        <div class="member" data-aos="fade-up" data-aos-delay="300">
-                            <div class="member-img">
-                                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-                                <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
-                                </div>
-                            </div>
-                            <div class="member-info">
-                                <h4>Amanda Jepson</h4>
-                                <span>Accountant</span>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-        </section><!-- End Team Section --> --}}
-
-        <!-- ======= Contact Section ======= -->
-        {{-- <section id="contact" class="contact">
-            <div class="container">
-
-                <div class="section-title" data-aos="zoom-out">
-                    <h2>Contact</h2>
-                    <p>Contact Us</p>
-                </div>
-
-                <div class="row mt-5">
-
-                    <div class="col-lg-4" data-aos="fade-right">
-                        <div class="info">
-                            <div class="address">
-                                <i class="bi bi-geo-alt"></i>
-                                <h4>Location:</h4>
-                                <p>A108 Adam Street, New York, NY 535022</p>
-                            </div>
-
-                            <div class="email">
-                                <i class="bi bi-envelope"></i>
-                                <h4>Email:</h4>
-                                <p>info@example.com</p>
-                            </div>
-
-                            <div class="phone">
-                                <i class="bi bi-phone"></i>
-                                <h4>Call:</h4>
-                                <p>+1 5589 55488 55s</p>
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                    <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-left">
-
-                        <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                            <div class="row">
-                                <div class="col-md-6 form-group">
-                                    <input type="text" name="name" class="form-control" id="name"
-                                        placeholder="Your Name" required>
-                                </div>
-                                <div class="col-md-6 form-group mt-3 mt-md-0">
-                                    <input type="email" class="form-control" name="email" id="email"
-                                        placeholder="Your Email" required>
-                                </div>
-                            </div>
-                            <div class="form-group mt-3">
-                                <input type="text" class="form-control" name="subject" id="subject"
-                                    placeholder="Subject" required>
-                            </div>
-                            <div class="form-group mt-3">
-                                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-                            </div>
-                            <div class="my-3">
-                                <div class="loading">Loading</div>
-                                <div class="error-message"></div>
-                                <div class="sent-message">Your message has been sent. Thank you!</div>
-                            </div>
-                            <div class="text-center"><button type="submit">Send Message</button></div>
-                        </form>
-
-                    </div>
-
-                </div>
-
-            </div>
-        </section><!-- End Contact Section --> --}}
-
     </main><!-- End #main -->
 
     <!-- ======= Footer ======= -->
@@ -1360,12 +1040,13 @@
             <div class="row">
                 <div class="col-md-3">
                     <h1>Qwords</h1>
-                    <strong> 
-                            <h1>PT Qwords Company International</h1>
-                        </strong>
+                    <strong>
+                        <h1>PT Qwords Company International</h1>
+                    </strong>
                     {{-- <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p> --}}
-                    <h7 style="margin-bottom:2ch ">Cloud Web Hosting Indonesia. Domain & hosting terbaik dengan akses cepat yang didukung layanan
-                        support 24/7</h7> 
+                    <h7 style="margin-bottom:2ch ">Cloud Web Hosting Indonesia. Domain & hosting terbaik dengan akses
+                        cepat yang didukung layanan
+                        support 24/7</h7>
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div><img src="assets/img/portfolio/pngegg.png" style="width: 200px; height: auto;"
                                 alt=""></div>
@@ -1373,197 +1054,219 @@
                     </div><strong>
                         <h1>Customer Care</h1>
                     </strong>
-                    <div class="foot"> <ul>
-                       
-                         <a href="">
+                    <div class="foot">
+                        <ul>
+
+                            <a href="">
                                 <h5>Pembayaran</h5>
                             </a></li>
-                         <a href="">
+                            <a href="">
                                 <h5>Faktur Pajak</h5>
                             </a>
-                         <a href="">
+                            <a href="">
                                 <h5>Bantuan 24 jam</h5>
                             </a>
-                         <a href="">
+                            <a href="">
                                 <h5>Qwords Rewards</h5>
                             </a>
-                         <a href="">
+                            <a href="">
                                 <h5>Knowledge Base</h5>
                             </a>
-                         <a href="">
+                            <a href="">
                                 <h5>Blog</h5>
                             </a>
-                         <a href="">
+                            <a href="">
                                 <h5>FAQ</h5>
                             </a>
-                         <a href="">
+                            <a href="">
                                 <h5>Kontak</h5>
                             </a>
 
-                    </ul></div>
+                        </ul>
+                    </div>
                 </div>
                 <div class="col-md-3">
                     <h1>Menganai Kami</h1>
                     <div class="foot">
-                    <ul >
-                         <a href="">
+                        <ul>
+                            <a href="">
                                 <h5>Corporate Website</h5>
                             </a></li>
-                         <a href="">
+                            <a href="">
                                 <h5>Qwords History</h5>
                             </a>
-                         <a href="">
+                            <a href="">
                                 <h5>Qwords Differences</h5>
                             </a>
-                         <a href="">
+                            <a href="">
                                 <h5>Media Publication</h5>
                             </a>
-                         <a href="">
+                            <a href="">
                                 <h5>Network & Infrastructure</h5>
                             </a>
-                         <a href="">
+                            <a href="">
                                 <h5>Partner</h5>
                             </a>
-                         <a href="">
+                            <a href="">
                                 <h5>Career & Employment</h5>
                             </a>
-                    </ul> </div>
+                        </ul>
+                    </div>
                     <h1>MSA/SLA/AUP</h1>
                     <div class="foot">
-                    <ul>
-                        
-                        <a href="">
-                               <h5>Master Service Agreement</h5>
-                           </a></li>
-                        <a href="">
-                               <h5>Refund Policy</h5>
-                           </a>
-                        <a href="">
-                               <h5>Privacy Policy</h5>
-                           </a>
-                        <a href="">
-                               <h5>Product Life Cycle Policy</h5>
-                           </a>
-                        <a href="">
-                               <h5>Penggunaan Merek dan Logo</h5>
-                           </a>
-                        <a href="">
-                               <h5>Migrasi Ke Qwords</h5>
-                           </a>
-                       
-                   </ul></div>
+                        <ul>
+
+                            <a href="">
+                                <h5>Master Service Agreement</h5>
+                            </a></li>
+                            <a href="">
+                                <h5>Refund Policy</h5>
+                            </a>
+                            <a href="">
+                                <h5>Privacy Policy</h5>
+                            </a>
+                            <a href="">
+                                <h5>Product Life Cycle Policy</h5>
+                            </a>
+                            <a href="">
+                                <h5>Penggunaan Merek dan Logo</h5>
+                            </a>
+                            <a href="">
+                                <h5>Migrasi Ke Qwords</h5>
+                            </a>
+
+                        </ul>
+                    </div>
                 </div>
                 <div class="col-md-3">
-                    <h1>Layanan Lainnya</h1><div class="foot">
-                    <ul>
-                        <a href="">
-                               <h5>Extended Support
-                            </h5>
-                           </a></li>
-                        <a href="">
-                               <h5>Manage The Box Server
-                            </h5>
-                           </a>
-                        <a href="">
-                               <h5>Flexi Main Domain</h5>
-                           </a>
-                        <a href="">
-                               <h5>FTP Backup</h5>
-                           </a>
-                        <a href="">
-                               <h5>Offline Backup</h5>
-                           </a>
-                        <a href="">
-                               <h5>Hosting Insurance</h5>
-                           </a>
-                        <a href="">
-                               <h5>Software License</h5>
-                           </a>
-                        <a href="">
-                               <h5>Digital Signature</h5>
-                           </a>
-                       
-                   </ul></div>
+                    <h1>Layanan Lainnya</h1>
+                    <div class="foot">
+                        <ul>
+                            <a href="">
+                                <h5>Extended Support
+                                </h5>
+                            </a></li>
+                            <a href="">
+                                <h5>Manage The Box Server
+                                </h5>
+                            </a>
+                            <a href="">
+                                <h5>Flexi Main Domain</h5>
+                            </a>
+                            <a href="">
+                                <h5>FTP Backup</h5>
+                            </a>
+                            <a href="">
+                                <h5>Offline Backup</h5>
+                            </a>
+                            <a href="">
+                                <h5>Hosting Insurance</h5>
+                            </a>
+                            <a href="">
+                                <h5>Software License</h5>
+                            </a>
+                            <a href="">
+                                <h5>Digital Signature</h5>
+                            </a>
 
-                   <h1>Layanan Reseller</h1><div class="foot">
-                   <ul>
-                    <a href="">
-                           <h5>Afiliasi
-                        </h5>
-                       </a></li>
-                    <a href="">
-                           <h5>Qwords VIP Partner
-                        </h5>
-                       </a>
-                    <a href="">
-                           <h5>Private Label Hosting Reseller</h5>
-                       </a>
-                    <a href="">
-                           <h5>Private Label Domain Reseller</h5>
-                       </a>
-               </ul></div>
+                        </ul>
+                    </div>
 
-               <h1>Free Tools</h1><div class="foot">
-               <ul>
-                <a href="">
-                       <h5>Qwords Link-Q
-                    </h5>
-                   </a></li>
-                <a href="">
-                       <h5>WhatsApp Link Generator
-                    </h5>
-                   </a>
-                <a href="">
-                       <h5>Network Tools</h5>
-                   </a>
-                <a href="">
-                       <h5>Private Label Domain Reseller</h5>
-                   </a>
-           </ul></div>
+                    <h1>Layanan Reseller</h1>
+                    <div class="foot">
+                        <ul>
+                            <a href="">
+                                <h5>Afiliasi
+                                </h5>
+                            </a></li>
+                            <a href="">
+                                <h5>Qwords VIP Partner
+                                </h5>
+                            </a>
+                            <a href="">
+                                <h5>Private Label Hosting Reseller</h5>
+                            </a>
+                            <a href="">
+                                <h5>Private Label Domain Reseller</h5>
+                            </a>
+                        </ul>
+                    </div>
+
+                    <h1>Free Tools</h1>
+                    <div class="foot">
+                        <ul>
+                            <a href="">
+                                <h5>Qwords Link-Q
+                                </h5>
+                            </a></li>
+                            <a href="">
+                                <h5>WhatsApp Link Generator
+                                </h5>
+                            </a>
+                            <a href="">
+                                <h5>Network Tools</h5>
+                            </a>
+                            <a href="">
+                                <h5>Private Label Domain Reseller</h5>
+                            </a>
+                        </ul>
+                    </div>
                 </div>
                 <div class="col-md-3">
                     <h1>Kantor Surabaya</h1>
-                    <h7>Gedung Bursa Efek Indonesia Lt.10, Jl. Taman AIS Nasution No.21, Surabaya 60271 - Indonesia 031 30008800</h7>
+                    <h7>Gedung Bursa Efek Indonesia Lt.10, Jl. Taman AIS Nasution No.21, Surabaya 60271 - Indonesia 031
+                        30008800</h7>
 
                     <h1>Kantor Yogyakarta</h1>
-                    <h7>Jl. Blotan no. 18 Kayen Wedomartani, Ngemplak, Sleman, Yogyakarta 55584 - Indonesia 0274 6058800</h7>
+                    <h7>Jl. Blotan no. 18 Kayen Wedomartani, Ngemplak, Sleman, Yogyakarta 55584 - Indonesia 0274 6058800
+                    </h7>
                     <h1>Kantor Yogyakarta</h1>
                     <h7>Gedung Cyber 1 Lantai 3, Jl.Kuningan Barat no.8, Jakarta 12710 - Indonesia 021 39708800</h7>
                     <h1>Kantor Bandung</h1>
-                    <h7>Jl. Terusan Setra Indah I No.19, Sukagalih, Sukajadi, Bandung 40163 - Indonesia 022 30508800</h7>
+                    <h7>Jl. Terusan Setra Indah I No.19, Sukagalih, Sukajadi, Bandung 40163 - Indonesia 022 30508800
+                    </h7>
                 </div>
             </div>
-          <strong> <h5 style="text-align: left; margin-bottom:5ch; margin-top:5ch">Terdaftar di PSE, ICANN dan Partner Lainnya</h5></strong> 
-          <div class="row" style="margin-bottom: 10ch">
-            <div class="col-lg-2 col-md-2 portfolio-item filter-card">
-                <a href=""><img src="assets/img/portfolio/code.png" style="width: 100px; height: auto;" alt=""></a>
+            <strong>
+                <h5 style="text-align: left; margin-bottom:5ch; margin-top:5ch">Terdaftar di PSE, ICANN dan Partner
+                    Lainnya</h5>
+            </strong>
+            <div class="row" style="margin-bottom: 10ch">
+                <div class="col-lg-2 col-md-2 portfolio-item filter-card">
+                    <a href=""><img src="assets/img/portfolio/code.png" style="width: 100px; height: auto;"
+                            alt=""></a>
+                </div>
+                <div class="col-lg-2 col-md-2 portfolio-item filter-app">
+                    <a href=""><img src="assets/img/portfolio/ican.png" style="width: 100px; height: auto;"
+                            alt=""></a>
+                </div>
+                <div class="col-lg-2 col-md-2 portfolio-item filter-app">
+                    <a href=""><img src="assets/img/portfolio/certi.png" style="width: 100px; height: auto;"
+                            alt=""></a>
+                </div>
+                <div class="col-lg-2 col-md-2 portfolio-item filter-app">
+                    <a href=""><img src="assets/img/portfolio/certi1.jpg" style="width: 100px; height: auto;"
+                            alt=""></a>
+                </div>
+                <div class="col-lg-2 col-md-2 portfolio-item filter-app">
+                    <a href=""><img src="assets/img/portfolio/acro.png" style="width: 100px; height: auto;"
+                            alt=""></a>
+                </div>
+                <div class="col-lg-2 col-md-2 portfolio-item filter-app">
+                    <a href=""><img src="assets/img/portfolio/acro1.png" style="width: 100px; height: auto;"
+                            alt=""></a>
+                </div>
             </div>
-            <div class="col-lg-2 col-md-2 portfolio-item filter-app">
-                <a href=""><img src="assets/img/portfolio/ican.png" style="width: 100px; height: auto;" alt=""></a>
-            </div>
-            <div class="col-lg-2 col-md-2 portfolio-item filter-app">
-                <a href=""><img src="assets/img/portfolio/certi.png" style="width: 100px; height: auto;" alt=""></a>
-            </div>
-            <div class="col-lg-2 col-md-2 portfolio-item filter-app">
-                <a href=""><img src="assets/img/portfolio/certi1.jpg" style="width: 100px; height: auto;" alt=""></a>
-            </div>
-            <div class="col-lg-2 col-md-2 portfolio-item filter-app">
-                <a href=""><img src="assets/img/portfolio/acro.png" style="width: 100px; height: auto;" alt=""></a>
-            </div>
-            <div class="col-lg-2 col-md-2 portfolio-item filter-app">
-                <a href=""><img src="assets/img/portfolio/acro1.png" style="width: 100px; height: auto;" alt=""></a>
+
+
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="copyright">
+                    Copyright © 2023 PT. Qwords Company International
+                </div>
             </div>
         </div>
-        
-
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="copyright">
-                        Copyright © 2023 PT. Qwords Company International
-                    </div>
-                </div>
-            </div>
         </div>
     </footer>
 
